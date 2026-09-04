@@ -1,7 +1,8 @@
 # Flutter — Lista de Exercícios
 
-**Aluno:** Davi Oliveira Pereira
-**Turma/Disciplina:** _(preencher)_
+** Aluno: Davi Oliveira Pereira
+** RA: 202410063
+** Disciplina: Programação de Dispositivos Móveis
 
 ## Sobre a atividade
 
